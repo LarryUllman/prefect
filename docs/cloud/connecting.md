@@ -166,7 +166,7 @@ You can also check that the account and workspace IDs specified in the URL for `
 
 ## Prefect Cloud login errors
 
-If you're having difficulty logging in to Prefect Cloud, the following troubleshooting steps may resolve the issue, or will provide more information when sharing your case to the support channel.
+If you're having difficulty logging in to Prefect Cloud, the following troubleshooting steps may resolve the issue, or provides more information when sharing your case to the support channel.
 
 - Are you logging into Prefect Cloud 2? Prefect Cloud 1 and Prefect Cloud 2 use separate accounts. Make sure to use the right Prefect Cloud 2 URL: <https://app.prefect.cloud/>
 - Do you already have a Prefect Cloud account? If you’re having difficulty accepting an invitation, try creating an account first using the email associated with the invitation, then accept the invitation.
